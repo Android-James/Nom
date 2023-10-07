@@ -1,11 +1,50 @@
 [
   {
     "id": 1,
-    "question": "Take a sip if you've ever traveled to another country."
+    "game": "Swap clothes with the person to your right and wear them for the next two rounds."
   },
   {
     "id": 2,
-    "question": "Take a sip if you've watched a horror movie in the past week."
+    "game": "Never Have I Ever: Each player takes a turn saying something they've never done. Anyone who has done that thing takes a drink."
   },
-  { "id": 3, "question": "Take a sip if you've sung karaoke before." }
+  { "id": 3, "game": "Call your crush and sing a romantic song to them." },
+  { "id": 4, "game": "What's your favorite guilty pleasure TV show?" },
+  {
+    "id": 5,
+    "game": "Do a handstand for as long as you can, or take a drink if you can't."
+  },
+  {
+    "id": 6,
+    "game": "Charades: Act out a word or phrase without speaking, and other players guess what it is. If they guess correctly, you drink; if they're wrong, they drink."
+  },
+  { "id": 7, "game": "What's your most embarrassing childhood memory?" },
+  {
+    "id": 8,
+    "game": "21 Questions: One player thinks of something, and others take turns asking yes-or-no questions to guess what it is. Each wrong questioner drinks."
+  },
+  {
+    "id": 9,
+    "game": "If you could travel back in time, which historical era would you visit?"
+  },
+  {
+    "id": 10,
+    "game": "Two Truths and a Lie: Share two truths and one lie about yourself. Other players guess which statement is the lie. If they guess wrong, they drink."
+  },
+  {
+    "id": 11,
+    "game": "Swap clothes with the person to your left and wear them for the next two rounds."
+  },
+  {
+    "id": 12,
+    "game": "If you could have any superpower, what would it be and why?"
+  },
+  {
+    "id": 13,
+    "game": "Send a text to your ex and say something outrageous."
+  },
+  { "id": 14, "game": "What's the most unusual food you've ever eaten?" },
+  {
+    "id": 15,
+    "game": "Call a random contact in your phone and tell them a secret."
+  }
 ]

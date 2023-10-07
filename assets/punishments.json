@@ -1,0 +1,30 @@
+[
+  { "id": 1, "punishment": "Take two shots of your choice of alcohol." },
+  {
+    "id": 2,
+    "punishment": "Wear a silly costume or prop for the next round."
+  },
+  {
+    "id": 3,
+    "punishment": "Drink half a cup of a mystery cocktail mixed by the group."
+  },
+  { "id": 4, "punishment": "Perform a karaoke song of the group's choice." },
+  {
+    "id": 5,
+    "punishment": "Do a 60-second dance performance for the group."
+  },
+  {
+    "id": 6,
+    "punishment": "Speak in an exaggerated accent for the next three turns."
+  },
+  { "id": 7, "punishment": "Wear a funny mask for the next two rounds." },
+  { "id": 8, "punishment": "Take a drink for every player in the game." },
+  {
+    "id": 9,
+    "punishment": "Let someone draw a funny face on you with a marker."
+  },
+  {
+    "id": 10,
+    "punishment": "Text a random contact in your phone saying something outrageous."
+  }
+]

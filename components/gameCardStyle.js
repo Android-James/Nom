@@ -17,19 +17,6 @@ const cardStyle = StyleSheet.create({
     fontWeight: "bold",
     textAlign: "center",
   },
-  touchableOpacity: {
-    backgroundColor: "blue", 
-    position: "absolute",
-    bottom: 0,
-    right: 0,
-    width: 100,
-    height: 100,
-    padding: 10, 
-    borderRadius: 50, 
-    alignItems: "center", 
-    justifyContent: "center", 
-    margin: 20, 
-  },
 });
 
 export default cardStyle;
