@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "question": "Take a sip if you've ever traveled to another country."
+  },
+  {
+    "id": 2,
+    "question": "Take a sip if you've watched a horror movie in the past week."
+  },
+  { "id": 3, "question": "Take a sip if you've sung karaoke before." }
+]
